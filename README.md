@@ -4,8 +4,12 @@
 
 Criar uma API de um aplicativo de lista de tarefas.
 
-A API deve ter disponibilizar as operações de cadastro de tarefas,
+A API deve disponibilizar as operações de cadastro de tarefas,
 marcar como concluida e excluir tarefas.
+
+Para responder o desafio, crie um respositório no github com o código do projeto
+e envie o link para rh@itflex.com.br, informando no corpo da mensagem seu nome e
+a vaga para qual está se candidatando.
 
 ### Requisitos
 
