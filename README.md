@@ -11,13 +11,13 @@ Para responder o desafio, crie um respositório no github com o código do proje
 e envie o link para rh@itflex.com.br, informando no corpo da mensagem seu nome e
 a vaga para qual está se candidatando.
 
-### Requisitos
+## Requisitos
 
 * Desenvolver em Python, NodeJS, PHP ou Ruby
 * API deve seguir os princípios REST
 * Documentar como rodar o projeto
 
-## Bonus
+### Bonus
 
 Para ganhar pontos extras, implemente as seguintes funcionalidades:
 
@@ -28,7 +28,7 @@ Para ganhar pontos extras, implemente as seguintes funcionalidades:
 * Utilizar um ORM para salvar em banco
 * Adicionar lógica para reordenar/salvar ordem das tarefas
 
-### Operações desejadas
+## Operações desejadas
 
 * Cadastro de tarefas
 * Marcar tarefas como concluidas
