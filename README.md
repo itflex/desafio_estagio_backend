@@ -13,7 +13,7 @@ a vaga para qual está se candidatando.
 
 ## Requisitos
 
-* Desenvolver em Python, NodeJS, PHP ou Ruby
+* Desenvolver em Python
 * API deve seguir os princípios REST
 * Documentar como rodar o projeto
 
@@ -26,7 +26,7 @@ Para ganhar pontos extras, implemente as seguintes funcionalidades:
   * PostgreSQL
   * MySQL
 * Utilizar um ORM para salvar em banco
-* Adicionar lógica para reordenar/salvar ordem das tarefas
+* Implementar testes unitários
 
 ## Operações desejadas
 
