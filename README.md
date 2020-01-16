@@ -1,4 +1,4 @@
-# Desafio backend iTFLEX Tecnologia
+# Desafio estágio backend iTFLEX Tecnologia
 
 ### Objetivo
 
@@ -15,11 +15,18 @@ a vaga para qual está se candidatando.
 
 * Desenvolver em Python, NodeJS, PHP ou Ruby
 * API deve seguir os princípios REST
-* Salvar as informações necessárias em um dos bancos de dados relacionais abaixo:
+* Documentar como rodar o projeto
+
+## Bonus
+
+Para ganhar pontos extras, implemente as seguintes funcionalidades:
+
+* Salvar as informações das tarefas em um dos bancos de dados relacionais abaixo:
   * Sqlite
   * PostgreSQL
   * MySQL
-* Documentar como rodar o projeto
+* Utilizar um ORM para salvar em banco
+* Adicionar lógica para reordenar/salvar ordem das tarefas
 
 ### Operações desejadas
 
